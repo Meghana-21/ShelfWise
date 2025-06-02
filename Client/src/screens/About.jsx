@@ -1,5 +1,4 @@
 import React from 'react';
-// Adjust the path as necessary
 
 const About = () => {
   return (
